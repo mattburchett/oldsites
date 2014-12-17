@@ -1,0 +1,116 @@
+body			{ background-color: #212121; margin-top: 0px; margin-bottom: 0px; padding-top: 0px; padding-bottom: 0px;}
+div 			{font-family: Verdana, Tahoma, Arial; font-size: 10px; color: #000000; padding: 0px 0px 0px 0px; border: 0px;}
+span, p, h1, h2, li, td ,th
+			{font-family: Verdana, Tahoma, Arial; font-size: 10px; color: #000000;}
+h3			{font-family: Verdana, Tahoma, Arial; font-size: 12px; color: #000000; text-align: center;}
+img			{border-width: 0; vertical-align: middle; }
+textarea		{font-family: Verdana, Tahoma, Arial; font-size: 10px; background-color: #FFFFFF; border: 1px; border-color: #000000;}
+input, select	{font-family: Verdana, Tahoma, Arial; font-size: 10px; background-color: #FFFFFF; border: 1px; border-color: #000000;}
+a			{ color: #373737; font-weight: bold; text-decoration: none;}
+a:hover 		{ color: #FFFFFF; text-decoration: none;}
+form 		{ margin: 0px; margin-left: auto; margin-right: auto;}
+hr 			{ color: #000000; height: 1px; text-align: center; width: 98%; }
+.hr 			{ color: #000000; height: 1px; text-align: center; width: 70%; }
+.header		{ width: 811px; border: 0px;  margin-left: auto; margin-right: auto; padding: 0px; background-color: #CCCCCC;}
+.banner		{ width: 731px; height: 150px; border: 0px;  margin-left: auto; margin-right: auto; padding: 0px; background-color: #CCCCCC; background-image: url("img/xr_toplogo.jpg");text-align:center;font-size: 30px; font-family: arial;}
+.popup		{ width: 50%; border: 0px;  margin-left: auto; margin-right: auto; padding: 0px; background-color: #CCCCCC;}
+.main			{ width: 811px; height: 500px; border: 0px;  margin-left: auto; margin-right: auto; padding: 0px;}
+.footer		{ width: 811px; border: 0px;  margin-left: auto; margin-right: auto; padding: 0px; background-color: #CCCCCC;}
+.footerimg		{ width: 731px; height: 100px; border: 0px;  margin-left: auto; margin-right: auto; padding: 0px; background-color: #CCCCCC; background-image: url("img/xr_footer.jpg");}
+.nav			{ width: 731px;  border: 0px;  margin-left: auto; margin-right: auto;}
+.maintable		{ width: 650px;  border: 0px;  margin-left: auto; margin-right: auto;}
+.bar_right		{ width: 40px; background-color: #CCCCCC; background-image: url("img/xr_barright.jpg"); background-repeat: repeat-y; border: 0px solid #000000; vertical-align: top;}
+.bar_left		{ width: 40px; background-color: #CCCCCC; background-image: url("img/xr_barleft.jpg"); background-repeat: repeat-y; border: 0px solid #000000; vertical-align: top;}		
+.backgr		{ width: 731px; background-color: #DDDDDD; background-image: url("img/xr_winbg.jpg"); background-repeat: repeat-y; border: 0px solid #000000; vertical-align: top;}
+.indexcol		{ width: 500px; border: 0px solid #333333; vertical-align: top; margin-left: auto; margin-right: auto; text-align: center;}
+.indexan		{ width: 650px; text-align: center; margin-left: auto; margin-right: auto;}
+.indexnews		{ width: 650px; text-align: left; margin-left: auto; margin-left: auto; margin-right: auto;}
+.wincol		{ width: 135px; border: 0px solid #333333; vertical-align: top;}
+.win1			{ width: 135px; height: 18px; background-color: #CCCCCC; background-image: url("img/xr_bar1.jpg"); border: 0px solid #333333;}
+.win2			{ width: 135px; background-color: #CCCCCC; background-image: url("img/xr_bar2.jpg"); background-repeat: repeat-y; border: 1px solid #CDCDCD;}
+.win3			{ width: 135px; height: 12px; background-color: #CCCCCC; background-image: url("img/xr_bar3.jpg"); border: 0px solid #333333;}
+.shout		{ width: 127px; overflow: hidden;}
+.shout2		{ width: 325px; overflow: hidden;}
+.auth1		{ width: 150px; background-color: #DDDDDD; margin-left: auto; margin-right: auto; text-align: center;}
+.auth2		{ width: 350px; margin-left: auto; margin-right: auto; text-align: left;}
+.authr		{ margin-left: auto; margin-right: auto; text-align: center;}
+.register1		{ width: 150px; background-color: #DDDDDD;}
+.register2		{ width: 450px; background-color: #DDDDDD;}
+.login			{ width: 125px; border: 0px solid #333333; margin-left: auto; margin-right: auto;}
+.login2		{ width: 110px; border: 0px solid #333333; margin-left: auto; margin-right: auto;}
+.pm			{ width: 700px; background-color: #DDDDDD; vertical-align: middle; overflow: hidden; }
+.forum1		{ width: 40px; background-color: #DDDDDD; text-align: center; vertical-align: middle;}
+.forum2		{ width: 275px; background-color: #DDDDDD; text-align: left; vertical-align: middle;}
+.forum3		{ width: 40px; background-color: #D6D6D6; text-align: center; vertical-align: middle;}
+.forum4		{ width: 96px; background-color: #D6D6D6; text-align: center; vertical-align: middle;}
+.forum5		{ background-color: #DDDDDD; text-align: right;}
+.forum6		{ width: 125px; background-color: #D6D6D6; text-align: left;}
+.forum7		{ width: 100px; background-color: #D6D6D6; text-align: left; vertical-align: top;}
+.forum8		{ width: 600px; background-color: #DDDDDD; text-align: left; vertical-align: middle;}
+.forum9		{ width: 96px; background-color: #DDDDDD; text-align: center; vertical-align: middle;}
+.list1			{ width: 30px; background-color: #DDDDDD; text-align: center; vertical-align: middle;}
+.list2			{ width: 175px; background-color: #DDDDDD; text-align: left; margin-left: auto; margin-right: auto; vertical-align: middle;}
+.list3			{ width: 500px; background-color: #DDDDDD; text-align: left; margin-left: auto; margin-right: auto; vertical-align: middle;}
+.user1		{ width: 24px; background-color: #DDDDDD; vertical-align: middle;}
+.user2		{ width: 144px; background-color: #DDDDDD; vertical-align: middle;}
+.user3		{ width: 128px; background-color: #DDDDDD; vertical-align: middle;}
+.userpage1		{ width: 150px; background-color: #DDDDDD; text-align: left; vertical-align: middle;}
+.userpage2		{ width: 450px; background-color: #DDDDDD; text-align: left; vertical-align: middle;}
+.plugtitle		{ width: 700px; background-color: #D6D6D6; text-align: left; vertical-align: middle;}
+.valid			{ vertical-align: middle; text-align: right;}
+.center		{ vertical-align: middle; margin-left: auto; margin-right: auto;}
+.textcenter		{ vertical-align: middle; margin-left: auto; margin-right: auto; text-align: center;}
+.top 			{ vertical-align: top; }
+.back1		{ background-color: #D6D6D6; vertical-align: middle;}
+.back2		{ background-color: #DDDDDD; vertical-align: middle;}
+.back3		{ background-color: #DDDDDD; vertical-align: middle;}
+.back4		{ background-color: #CCCCCC; vertical-align: middle;}
+.back5		{ background-color: #747273; vertical-align: middle;}
+.text1xs		{ font-family: Times; color: #000000; font-size: 10px; }
+.text1e		{ color: #000000; font-weight: bold; }
+.text1f		{ color: #000000; font-weight: bold; }
+.text1h		{ color: #000000; }
+.text2		{ font-size: 12px; }
+.text2b 		{ font-size: 12px; font-weight: bold; }
+.text3		{ font-size: 13px; font-weight: bold; }
+.text4		{ font-size: 14px; font-weight: bold; }
+.titleindex		{ font-family: Times, Verdana; font-size: 10px; font-weight: bold; color: #000000; text-align: center;}
+.txtsmall1		{ font-family: Verdana, Arial; font-size: 9px; font-weight: bold; color: #000000; text-align: left;}
+.txtsmall1c		{ font-family: Verdana, Arial; font-size: 9px; font-weight: bold; color: #000000; text-align: center;}
+.txtsmall2		{ font-family: Verdana, Tahoma, Arial; font-size: 10px; color: #000000; text-align: left; padding-left: 5px; }
+.txtsmall2c		{ font-family: Verdana, Tahoma, Arial; font-size: 10px; color: #000000; text-align: center; }
+.txtsmall3		{ font-family: Verdana, Tahoma, Arial; font-size: 10px; color: #000000; }
+.txtsmall4		{ font-family: Verdana, Tahoma, Arial; font-size: 10px; font-weight: bold; color: #000000; text-align: center;}
+.txtsmall5c		{ font-family: Verdana, Arial; font-size: 9px; color: #000000; text-align: center;}
+.txtlarge1		{ font-family: Verdana, Tahoma, Arial; font-size: 11px; color: #000000;}
+.nav1      		{ height: 14px; background-image: url("img/xr_menu_r1_c1.jpg"); border: 0px solid #333333;} 
+.nav2      		{ height: 14px; font-family: Verdana, Tahoma, Arial; font-size: 10px; font-weight: bold; color: #000000;  text-align: center; background-image: url("img/xr_menu_r2_c1.jpg"); border: 0px solid #333333;} 
+.nav2 a:link, .nav2 a:visited, .nav2 a:active 
+			{ color: #000000; font-weight: bold; text-decoration: none;} 
+.nav2 a:hover   	{ color: #FFFFFF; font-weight: bold; text-decoration: none; font-size: 10px;}
+.nav3      		{ height: 16px;  background-image: url("img/xr_menu_r3_c1.jpg"); border: 0px solid #333333;} 
+.code 		{ font-size: 10px; color: #000000; background-color: #CCCCCC; font-family: Verdana;}
+.bar_front 		{ background-color:#595959; border-right:0px solid #333333; padding:0px 0px 0px 0px; color:#DDDDDD; height:10px; text-align: left;}
+.bar_back 		{ background-color:#CCCCCC; border:1px solid #333333; margin:0px 0px 0px 0px; height:10px; text-align: left;}
+.colleft 		{ float:left; margin: 0px 4px 0px 4px; }
+.colright 		{ float:right; margin: 0px 4px 0px 4px; }
+.bbcodes a img 	{ border: 1px outset #AAAAAA; background-color: #FFFFFF; }
+.smilies a img 	{ border: 0px; background-color: transparent; }
+.radio			{ background-color: #E4E4E4; }
+#wrapper {
+height: 100%;
+width: 800px;
+margin-right: auto;
+margin-left: auto;
+}
+#date      		{
+	height: 14px;
+	font-family: Verdana, Tahoma, Arial;
+	font-size: 10px;
+	font-weight: bold;
+	color: #000000;
+	text-align: right;
+	background-image: url("img/xr_menu_r2_c1.jpg");
+	border: 0px solid #333333;
+	text-indent: 50px;
+} 

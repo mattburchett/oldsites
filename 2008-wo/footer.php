@@ -1,0 +1,2 @@
+<p><strong>&copy; Copyright 2008 Whizkid Online. All Rights Reserved.</strong><br>
+	  <a href="#">Privacy Policy</a> | Terms of Use | <a href="#">Contact</a> | Licensed Under the MIT License, source at <a href="http://github.com/mattburchett/oldsites">GitHub</a>< </p>

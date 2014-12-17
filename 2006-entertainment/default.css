@@ -1,0 +1,191 @@
+/* CSS Document */
+
+.style1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: .7em;
+}
+#header {
+	background-color: #000000;
+	height: 82px;
+	width: 715px;
+}
+#container {
+	margin: 0px auto;
+	text-align: left;
+	width: 715px;					/* width should be the same as the background image */
+	padding: 0px 17px 0px 17px;
+	width: 715px;
+	/* box model hack */
+	voice-family: "\"}\"";
+	voice-family:inherit;
+	background-repeat: repeat-y;
+	background-color: #999999;
+}
+
+#footer {
+	clear: both;
+	margin: 0px auto; 				/* to fix centering in Mozilla */
+	width: 749px;					/* width should be the same as the background image */
+	color: #000000;
+	padding: 10px 0px 10px 0px;
+	font: .8em Verdana, Arial, Helvetica, sans-serif;
+	background-color: #999999;
+}
+#footer a:link, #footer a:visited {
+	text-decoration: none;
+}
+#footer a:active, #footer a:hover {
+	text-decoration: none;
+}
+#leftcolumn {
+	width: 152px;
+	float: left;
+	/* box model hack */
+	voice-family: "\"}\"";
+	voice-family:inherit;
+	width: 152px;
+	background-color: #FFFFFF;
+	height: 100%;
+	padding-top: 10px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 10px;
+}
+#leftcolumn a:link, #leftcol a:visited {
+	text-decoration: none;
+}
+#leftcolumn a:active, #leftcol a:hover {
+	text-decoration: none;
+}
+
+html>body #leftcolumn { width: 152px; }
+
+#maincolumn {
+	width: 500px;
+	float: left;
+	/* box model hack */
+	voice-family: "\"}\"";
+	voice-family:inherit;
+	background-color: #FFFFFF;
+	height: 100%;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 8px;
+	padding-left: 10px;
+}
+#maincolumn a:link, #maincolumn a:visited {
+	color: #000033;
+	text-decoration: none;
+}
+#maincolumn a:active, #maincolumn a:hover {
+	text-decoration: none;
+}
+
+html>body #maincolumn {
+	width: 525px;
+	height: 100%;
+}
+#centercol {			/* basically a modification of "maincol" */
+	width: 150px;
+	float: left;
+	padding: 10px;
+	/* box model hack */
+	voice-family: "\"}\"";
+	voice-family:inherit;
+	width: 130px;
+}
+
+html>body #centercol { width: 230px; }
+	
+#rightcol {
+	width: 150px;
+	float: left;
+	padding: 2px;
+	/* box model hack */
+	voice-family: "\"}\"";
+	voice-family:inherit;
+	width: 130px;
+}
+
+html>body #rightcol { width: 130px; }
+	
+.infoheader {
+	width: 500px;
+	float: left;
+	/* box model hack */
+	voice-family: "\"}\"";
+	voice-family:inherit;
+	width: 500px;
+	background-repeat: repeat-x;
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 0.7em;
+	color: #FFFFFF;
+	background-color: #000000;
+	height: 15px;
+	padding-top: 2px;
+	padding-right: 3px;
+	padding-bottom: 2px;
+	padding-left: 5px;
+}
+.leftheader {
+	float: left;
+	/* box model hack */
+	voice-family: "\"}\"";
+	voice-family:inherit;
+	width: 152px;
+	color: #FFFFFF;
+	text-decoration: none;
+	height: 15px;
+	padding-top: 2px;
+	padding-right: 3px;
+	padding-bottom: 2px;
+	padding-left: 5px;
+	font-size: 0.7pc;
+	background-repeat: repeat-x;
+	background-color: #000000;
+}
+.style2 {
+	font-size: .7em;
+	text-align: center;
+}
+body {
+	margin: 0px;
+	padding: 0px;
+	background-color: #999999;
+}
+html { 
+	margin: 0px;
+	height:100%;
+}
+.style3 {
+color: #FFFFFF
+}
+.style4 {
+color: #D4D0C8
+}
+a:link {
+	text-decoration: none;
+	color: #000000;
+}
+a:visited {
+	text-decoration: none;
+	color: #000000;
+}
+a:hover {
+	text-decoration: none;
+	color: #000000;
+}
+a:active {
+	text-decoration: none;
+	color: #000000;
+}
+.style6 {
+	font-size: 0.7em;
+	font-weight: bold;
+}
+.style7 {font-size: 1em}
+.style8 {font-size: 0.7em}
+#body {
+	background-color: #FFFFFF;
+	width: 715px;
+}

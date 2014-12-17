@@ -1,0 +1,75 @@
+@charset "utf-8";
+
+
+/* CSS Document */
+body {
+	background-image: url(gfx/bg.gif);
+	background-repeat: repeat;
+}
+#wrapper {
+	height: 100%;
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(gfx/bg-holder.gif);
+}
+#header {
+	background-image: url(gfx/logo.gif);
+	height: 320px;
+	width: 800px;
+}
+#nav {
+	height: 20px;
+	width: 800px;
+	background-image: url(gfx/bg-holder.gif);
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+	text-decoration: none;
+	text-indent: 30px;
+	font-size: 10px;
+}
+#content {
+	height: 100%;
+	width: 740px;
+	background-image: url(gfx/bg-holder.gif);
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	text-decoration: none;
+	padding-right: 30px;
+	padding-left: 30px;
+	background-repeat: repeat-x;
+}
+a:link {
+	height: 100%;
+	width: 434px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#footer {
+	clear: both;
+	height: 100%;
+	width: 800px;
+	background-image: url(gfx/bg-holder.gif);
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FFFFFF;
+	text-decoration: none;
+	text-align: center;
+}
+a:link {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+a:hover {
+	text-decoration: none;
+	color: #718CD1;
+}
+a:active {
+	text-decoration: none;
+	color: #718CD1;
+}

@@ -1,0 +1,3 @@
+<p>Copyright &copy; 2007 - 2008 The Family Website</p>
+<p><a href="http://jigsaw.w3.org/css-validator/validator?uri=http://www.whizkidonline.com/famweb/default.css"><img src="gfx/w3c_css.jpg" alt="CSS Validated" width="80" height="15" /></a>&nbsp;&nbsp;&nbsp; Terms of Use&nbsp;	<a href="privacy.php">Privacy Policy</a>&nbsp;	<a href="http://www.whizkidonline.com/famweb/contact.php">Contact Us</a>&nbsp;&nbsp;&nbsp;	<a href="http://validator.w3.org/check?uri=http%3A%2F%2Fwww.whizkidonline.com%2Ffamweb%2F"><img src="gfx/w3c-xhtml.jpg" alt="XHTML 1.0 Transitional" width="80" height="15" /></a></p>
+

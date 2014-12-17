@@ -1,0 +1,6 @@
+[08-Aug-2009 19:50:36] PHP Warning:  include(nav.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/whizkido/public_html/whiztec/index.php on line 14
+[08-Aug-2009 19:50:36] PHP Warning:  include(nav.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/whizkido/public_html/whiztec/index.php on line 14
+[08-Aug-2009 19:50:36] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'nav.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/whizkido/public_html/whiztec/index.php on line 14
+[08-Aug-2009 19:50:46] PHP Warning:  include(nav.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/whizkido/public_html/whiztec/index.php on line 14
+[08-Aug-2009 19:50:46] PHP Warning:  include(nav.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/whizkido/public_html/whiztec/index.php on line 14
+[08-Aug-2009 19:50:46] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'nav.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/whizkido/public_html/whiztec/index.php on line 14

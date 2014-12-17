@@ -1,0 +1,6 @@
+[30-Dec-2007 17:14:01] PHP Warning:  main(header.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /home/whizkido/public_html/about3.php on line 11
+[30-Dec-2007 17:14:01] PHP Warning:  main(header.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /home/whizkido/public_html/about3.php on line 11
+[30-Dec-2007 17:14:01] PHP Warning:  main() [<a href='function.include'>function.include</a>]: Failed opening 'header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/whizkido/public_html/about3.php on line 11
+[30-Dec-2007 17:15:35] PHP Warning:  main(header.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /home/whizkido/public_html/websites3.php on line 11
+[30-Dec-2007 17:15:35] PHP Warning:  main(header.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /home/whizkido/public_html/websites3.php on line 11
+[30-Dec-2007 17:15:35] PHP Warning:  main() [<a href='function.include'>function.include</a>]: Failed opening 'header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/whizkido/public_html/websites3.php on line 11
